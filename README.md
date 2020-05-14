@@ -1,2 +1,2 @@
 # rdpwrap
-RDPWrap.ini and autoupdate script  RDP Wrapper Library by Stas'M
+RDPWrap.ini and autoupdate script for RDPRDP Wrapper Library by Stas'M
