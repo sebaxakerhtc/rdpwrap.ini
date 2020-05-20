@@ -1,6 +1,6 @@
 # rdpwrap
 RDPWrap.ini and autoupdate script for RDPRDP Wrapper Library by Stas'M
-<p> <b> - 20.05.2020: My modded version you can download here https://cloud.pcserviceburgas.com/index.php/s/P4mezBKPJcCH45c
+<p> <b>UPD 20.05.2020: My modded version you can download here https://cloud.pcserviceburgas.com/index.php/s/P4mezBKPJcCH45c
 <p>- Unpack zip
 <p>- Run install.bat with administrator privileges
 <p>- Wait until you see the RDPConf window with all green lines
