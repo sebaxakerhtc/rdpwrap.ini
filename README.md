@@ -14,3 +14,5 @@ I like to use it, and now (from build 18362.836) i try to make it working on eve
 <p> <img src=https://b.radikal.ru/b28/2005/47/505a630a9521.png>
 <p>-17.05.2020: Now it's work with <b>19628.1</b> Insider Preview
 <p> <img src=https://a.radikal.ru/a19/2005/c9/4f6ff66587e6.png>
+<p>-24.05.2020: Now it's work with <b>19631.1</b> Insider Preview
+<p> <img src=https://b.radikal.ru/b19/2005/13/afab99337c08.png>
