@@ -12,6 +12,7 @@ Also i change the uninstaller to remove install dir.</b>
 
 I like to use it, and now (from build 18362.836) i try to make it working on every release x64 by myself.
 
+<p>-18.06.2020: added support for <b>20150.1000</b> Insider Preview
 <p>-11.06.2020: added support for <b>19613.1000</b> Insider Preview
 <p>-11.06.2020: added support for <b>19645.1</b> Insider Preview
 <p>-07.06.2020: added support for <b>19640.1</b> Insider Preview
