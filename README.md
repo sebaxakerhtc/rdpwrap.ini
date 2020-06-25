@@ -9,7 +9,7 @@ RDPWrap.ini for RDP Wrapper Library by Stas'M
 <p>- Run install.bat with administrator privileges
 <p>- Wait until you see the RDPConf window with all green lines
 <p> <img src=https://b.radikal.ru/b28/2005/47/505a630a9521.png>
-<p>- Enjoy
+<p>- Enjoy!
 <p>I make a changes in installer and autoupdater to  copy all files to install dir, run autoupdate and start RDPConf to check if it works.
 <p>Also i change the uninstaller to remove install dir.</b>
 <p>
