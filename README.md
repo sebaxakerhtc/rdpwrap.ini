@@ -19,6 +19,7 @@ RDPWrap.ini for RDP Wrapper Library by Stas'M
 <p>A: Look this video https://youtu.be/7ZjgehDztBQ</b>
 <p>
 <p><b>Updates:</b> 
+<p>-02.09.2020: added support for <b>18963.1000</b> Insider Preview
 <p>-27.08.2020: added support for <b>20201.1000</b> Insider Preview
 <p>-23.08.2020: added support for <b>20197.1000</b> Insider Preview
 <p>-13.08.2020: added support for <b>20190.1000</b> Insider Preview
