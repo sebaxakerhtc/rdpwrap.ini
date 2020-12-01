@@ -5,7 +5,7 @@ RDPWrap.ini for RDP Wrapper Library by Stas'M
 <p>All thaks for Autoupdater to https://github.com/asmtron/rdpwrap
 <p> <b>UPD 29.05.2020: My modded version you can download here http://rdpwrapper.myftp.biz/RDP_Wrapper_mod.zip
 <p>- added "Plan B" to autoupdate. if my github will be blocked you will recieve updates from another source.
-<p>- Unpack zip
+<p>- Unpack zip to any place
 <p>- Run install.bat with administrator privileges
 <p>- Wait until you see the RDPConf window with all green lines
 <p> <img src=https://b.radikal.ru/b28/2005/47/505a630a9521.png>
