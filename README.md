@@ -20,7 +20,7 @@ RDPWrap.ini for RDP Wrapper Library by Stas'M
 <p>
 <p><b>Updates:</b> 
 <p>-24.12.2020: added support for <b>20279.1</b> Insider Preview
-<p>.....................added support for <b>21277.1000</b> Insider Preview
+<p>......................added support for <b>21277.1000</b> Insider Preview
 <p>-01.12.2020: added support for <b>19041.662</b>
 <p>-27.11.2020: added support for <b>20262.1</b> Insider Preview
 <p>-19.11.2020: added support for <b>20257.1</b> Insider Preview
@@ -49,7 +49,7 @@ RDPWrap.ini for RDP Wrapper Library by Stas'M
 <p>-11.06.2020: added support for <b>19645.1</b> Insider Preview
 <p>-07.06.2020: added support for <b>19640.1</b> Insider Preview
 <p>-29.05.2020: added support for <b>19635.1</b> Insider Preview
-<p>..........................added support for <b>19619.1000</b> Insider Preview
+<p>......................added support for <b>19619.1000</b> Insider Preview
 <p>-24.05.2020: added support for <b>19631.1</b> Insider Preview
 <p>-17.05.2020: added support for <b>19628.1</b> Insider Preview
 <p>-16.05.2020: added support for <b>19041.84</b>
