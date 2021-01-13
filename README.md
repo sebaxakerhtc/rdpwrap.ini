@@ -21,6 +21,7 @@ RDPWrap.ini for RDP Wrapper Library by Stas'M
 <details>
 <summary><b>Updates:</b></summary>
 <p>13.01.2021: added support for <b>19041.746</b>
+<p>....................added support for <b>18362.1316</b>
 <p>08.01.2021: added support for <b>21286.1000</b> Insider Preview
 <p>24.12.2020: added support for <b>20279.1</b> Insider Preview
 <p>....................added support for <b>21277.1000</b> Insider Preview
