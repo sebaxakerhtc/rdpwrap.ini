@@ -1,6 +1,6 @@
 # rdpwrap
 Discord discussion here: https://discord.gg/N27yFftWP3
-RDPWrap.ini for RDP Wrapper Library by Stas'M
+<p>RDPWrap.ini for RDP Wrapper Library by Stas'M
 <p><b>IMPOTANT!</b>
 <p>All thaks for RDP Wrapper Library to https://github.com/stascorp/rdpwrap
 <p>All thaks for Autoupdater to https://github.com/asmtron/rdpwrap
