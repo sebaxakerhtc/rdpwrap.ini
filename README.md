@@ -21,7 +21,7 @@ Discord discussion here: https://discord.gg/N27yFftWP3
 <p>
 <details>
 <summary><b>Updates:</b></summary>
-<p>18.01.2021: coming soon... (at work) for <b>21292.1010</b> Insider Preview
+<p>no changes for <b>21292.1010</b> Insider Preview
 <p>14.01.2021: added support for <b>21292.1000</b> Insider Preview
 <p>........................added support for <b>17763.1697</b>
 <p>........................added support for <b>14393.4169</b>
