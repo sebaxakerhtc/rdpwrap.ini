@@ -21,6 +21,7 @@ Discord discussion here: https://discord.gg/N27yFftWP3
 <p>
 <details>
 <summary><b>Updates:</b></summary>
+<p>23.01.2021: added support for <b>19041.789</b>
 <p>02.02.2021: added support for <b>17134.1967</b>
 <p>28.01.2021: added support for <b>21301.1000</b> Insider Preview
 <p>23.01.2021: added support for <b>19041.782</b>
