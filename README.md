@@ -4,7 +4,7 @@
 <p><b>IMPORTANT!</b>
 <p>All thanks for RDP Wrapper Library to:  https://github.com/stascorp/rdpwrap
 <p>All thanks for Autoupdater to:  https://github.com/asmtron/rdpwrap
-<p> <b>My modified version of RDP Wrapper you can downloaded from Discord
+<p> <b>My modified version of RDP Wrapper can be downloaded from Discord
 <p>- added "Plan B" to autoupdate (if my GitHub account gets blocked, you can recieve updates from another source)
 <p>- unpack .zip to any place
 <p>- run install.bat with Administrator privileges
