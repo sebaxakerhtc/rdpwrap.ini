@@ -19,6 +19,7 @@
 <p>
 <details>
 <summary><b>Updates:</b></summary>
+<p>20.02.2021: added support for <b>19041.962</b>
 <p>06.04.2021: added support for <b>21313.1000</b> Insider Preview
 <p>16.03.2021: added support for <b>21332.1000</b> Insider Preview
 <p>04.02.2021: added support for <b>19041.789</b>
