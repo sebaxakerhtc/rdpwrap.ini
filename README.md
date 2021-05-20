@@ -19,6 +19,7 @@
 <p>
 <details>
 <summary><b>Updates:</b></summary>
+<p>20.05.2021: added support for <b>21343.1000</b> Insider Preview
 <p>15.05.2021: added support for <b>21382.1</b> Insider Preview
 <p>11.05.2021: added support for <b>21376.1</b> Insider Preview
 <p>03.05.2021: added support for <b>21370.1</b> Insider Preview
