@@ -27,6 +27,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) explains what this is
 
 <details>
 <summary><b>Updates:</b></summary>
+<p>02.06.2021: added support for <b>21390.1</b> Insider Preview
 <p>27.05.2021: added support for <b>17763.1971</b>
 <p>23.05.2021: added support for <b>19041.1023</b>
 <p>20.05.2021: added support for <b>21343.1000</b> Insider Preview
