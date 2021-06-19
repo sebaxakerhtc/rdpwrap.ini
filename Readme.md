@@ -25,7 +25,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) explains what this is
 
 <details>
 <summary><b>Updates:</b></summary>
-<p>19.06.2021: added support for <b>19041.1081</b> in test mode because of missing termsrv.pdb file on the Microsoft website. All values founded manualy(theorwticaly) and may not work
+<p>19.06.2021: added support for <b>19041.1081</b> in test mode because of missing termsrv.pdb file on the Microsoft website. All values founded manualy(theoreticaly) and may not work
 <p>18.06.2021: added support for <b>21996.1</b> Insider Preview
 <p>04.06.2021: added support for <b>21387.1</b> Insider Preview
 <p>02.06.2021: added support for <b>21390.1</b> Insider Preview
