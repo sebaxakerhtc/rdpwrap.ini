@@ -25,10 +25,10 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) explains what this is
 
 <details>
 <summary><b>History:</b></summary>
-<p>19.06.2021: added support for <b>19041.1081</b> in test mode because of missing termsrv.pdb file on the Microsoft website. All values founded manualy(theoreticaly) and may not work
 <p>29.06.2021: added support for <b>22000.1</b> Insider Preview
 <p>21.06.2021: added support for <b>18362.1533</b>
 <p>18.06.2021: added support for <b>21996.1</b> Insider Preview
+<p>19.06.2021: added support for <b>19041.1081</b>
 <p>04.06.2021: added support for <b>21387.1</b> Insider Preview
 <p>02.06.2021: added support for <b>21390.1</b> Insider Preview
 <p>27.05.2021: added support for <b>17763.1971</b>
