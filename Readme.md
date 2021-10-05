@@ -25,6 +25,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) explains what this is
 
 <details>
 <summary><b>History:</b></summary>
+<p>05.10.2021: added support for <b>22471.1000</b> Insider Preview
 <p>01.10.2021: added support for <b>20348.261</b>
 <p>30.09.2021: added support for <b>17763.1369</b>
 <p>........................added support for <b>22468.1000</b> Insider Preview
