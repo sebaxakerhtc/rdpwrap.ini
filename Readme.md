@@ -25,6 +25,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) explains what this is
 
 <details>
 <summary><b>History:</b></summary>
+<p>10.11.2021: added support for <b>19041.1319</b>
 <p>31.10.2021: added support for <b>19041.1320 (x86)</b> and <b>22489.1000</b>
 <p>29.10.2021: added support for (x86) <b>17763.1971</b>, <b>17763.2213</b> and <b>17763.2268</b>
 <p>27.10.2021: added support for <b>19041.1320</b>
