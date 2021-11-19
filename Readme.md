@@ -25,6 +25,8 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) explains what this is
 
 <details>
 <summary><b>History:</b></summary>
+<p>19.11.2021: added support for <b>22504.1000_x64</b>
+<p>18.11.2021: added support for <b>7601.25757_x64</b>
 <p>17.11.2021: added support for <b>9200.23509_x64</b>
 <p>16.11.2021: added support for <b>9600.20165_x86</b>
 <p>14.11.2021: added support for <b>17738.1000_x64</b>, <b>17746.1000_x64</b> and <b>18252.1000_x64</b>
