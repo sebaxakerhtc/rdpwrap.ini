@@ -6,16 +6,7 @@
   
 #### All thanks for RDP Wrapper Library to: [stascorp](https://github.com/stascorp/rdpwrap)
   
-#### All thanks for Autoupdater to: [asmtron](https://github.com/asmtron/rdpwrap)
-  
-My modified version of RDP Wrapper can be downloaded from Discord
-  - added "Plan B" to autoupdate (if my GitHub account gets blocked, you can recieve updates from another source)
-  - unpack .zip to any place
-  - run install.bat with Administrator privileges
-  - wait until you see the RDPConf window with all green-coloured indicators
-  - Enjoy!
-  
-I made changes to the installer and autoupdater to copy all files to the installation directory, run autoupdate, then start RDPConf to check that it's functioning correctly.</b>  (The uninstaller now also removes the installation directory afterwards.)
+#### My modified version of RDP Wrapper can be downloaded [HERE](https://github.com/sebaxakerhtc/rdpwrap/releases)
 
 I like using RDP Wrapper, and now (starting from build 18362.836) I contribute regularly into making sure it works on every x64 release of MS-Windows.
 
