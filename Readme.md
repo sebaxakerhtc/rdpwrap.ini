@@ -16,6 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>13.12.2021: added support for <b>19041.1387_x86</b>
 <p>09.12.2021: added support for <b>22518.1000</b>
 <p>03.12.2021: added support for <b>22509.1000</b> and <b>19041.84_x86 o_O - thanks to @Mixer from Discord discussion </b>
 <p>28.11.2021: added support for <b>20348.380_x64</b>
