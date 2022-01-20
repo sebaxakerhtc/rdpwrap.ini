@@ -16,6 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>20.01.2022: added support for <b>22538.1000 Insider Preview</b>
 <p>18.01.2022: added support for <b>22000.466</b>
 <p>13.01.2022: added support for <b>22533.1000</b>
 <p>07.01.2022: added support for <b>22526.1000</b>
