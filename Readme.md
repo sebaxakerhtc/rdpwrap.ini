@@ -16,6 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>01.02.2022: added support for <b>20348.502_x64</b>
 <p>29.01.2022: added support for <b>22543.1000 Insider Preview</b>
 <p>26.01.2022: added support for <b>19041.1503_x64</b> and <b>22000.469</b>
 <p>21.01.2022: added support for <b>19041.1381_x64</b> and <b>19041.1499_x64</b>
