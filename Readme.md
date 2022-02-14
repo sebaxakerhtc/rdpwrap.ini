@@ -16,7 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
-<p>14.02.2022: added support for <b>19041.1561_x64</b> in test mode
+<p>14.02.2022: added support for <b>19041.1561_x64</b>
 <p>06.02.2022: added support for <b>19041.1503_x86</b>
 <p>01.02.2022: added support for <b>20348.502 Server 2022</b>
 <p>29.01.2022: added support for <b>22543.1000 Insider Preview</b>
