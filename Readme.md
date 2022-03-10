@@ -16,7 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
-<p>10.03.2022: added support for <b>22572.1</b>
+<p>10.03.2022: added support for <b>22572.1</b> and <b>18362.2158_x64</b>
 <p>07.03.2022: added support for <b>22567.1</b>
 <p>25.02.2022: added support for <b>22563.1</b>
 <p>18.02.2022: added support for <b>22557.1</b>
