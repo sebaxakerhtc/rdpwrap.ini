@@ -158,3 +158,12 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 BURST/Signa: BURST-GEL8-6CRU-CNNC-B4RLL
 
 Bitcoin: bc1q4yndy5fnzpq4n6rjdgs5km5udw6654h8s4a0kjv2ypaa2n5k47hs2z9lpd
+
+## Basic Info (inspired from FAQ)
+* It's better download modified version of ```RDPW_installer.exe``` in this repo
+ because in some case, another RDPWrapper unable to detect another dependencies like ```termsrv.dll``` during installation.
+* Install ```RDPW_installer.exe``` , ```rdpwrap.ini```, and ```termsrv.dll``` in same folder before instalation.
+* Antivirus or Windows Defender is trying to delete some files like ```rdpwrap.ini``` and ```termsrv.dll``` 
+so make sure disable them before install.
+* After Windows Update, RDPWrapper maybe doesn't work.
+To resolve it, you can reinstall with updated ```rdpwrap.ini``` and updated ```termsrv.dll``` (check this repo for updated those file).
