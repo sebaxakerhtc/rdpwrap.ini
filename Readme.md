@@ -16,7 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
-<p>27.05.2022: added support for <b>17763.2989_x64</b> and <b>25126.1000</b>
+<p>27.05.2022: added support for <b>17763.2989_x64</b>, <b>20348.740</b> and <b>25126.1000</b>
 <p>25.05.2022: added support for <b>22000.708</b>
 <p>23.05.2022: added support for <b>17763.2931</b>
 <p>20.05.2022: added support for <b>25120.1000</b>
