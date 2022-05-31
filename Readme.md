@@ -156,7 +156,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 ## Donate?
 ### Yes, you can buy me a beer or a coffe at 
-[THIS LINK](https://donate.stream/en/sebaxakerhtc) OR
+[THIS LINK]([https://donate.stream/en/sebaxakerhtc](https://paypal.me/sebaxakerhtc)) OR
 
 BURST/Signa: BURST-GEL8-6CRU-CNNC-B4RLL
 
