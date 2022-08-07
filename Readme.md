@@ -16,6 +16,13 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>04.08.2022: added support for <b>25174.1000</b>
+<p>01.08.2022: added support for <b>22621.317</b>
+<p>29.07.2022: added support for <b>25169.1000</b>
+<p>25.07.2022: added support for <b>17763.3232_x64</b>
+<p>23.07.2022: added support for <b>22621.436</b>
+<p>21.07.2022: added support for <b>20348.859</b> and <b>25163.1000</b>
+<p>15.07.2022: added support for <b>25158.1000</b>
 <p>02.07.2022: added support for <b>25151.1000</b>
 <p>25.06.2022: added support for <b>17763.3113</b>
 <p>23.06.2022: added support for <b>25145.1000</b>
