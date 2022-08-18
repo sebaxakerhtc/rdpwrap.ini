@@ -16,7 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
-<p>18.08.2022: added support for <b>25182.1000</b> and <b>20348.946</b>
+<p>18.08.2022: added support for <b>25182.1000</b> and <b>20348.946 (Server 2022)</b>
 <p>12.08.2022: added support for <b>25179.1000</b>
 <p>04.08.2022: added support for <b>25174.1000</b>
 <p>01.08.2022: added support for <b>22621.317</b>
