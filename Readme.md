@@ -175,8 +175,4 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 ## Donate?
 ### Yes, you can buy me a beer or a coffe at 
-[THIS LINK](https://paypal.me/sebaxakerhtc) OR
-
-BURST/Signa: BURST-GEL8-6CRU-CNNC-B4RLL
-
-Bitcoin: bc1q4yndy5fnzpq4n6rjdgs5km5udw6654h8s4a0kjv2ypaa2n5k47hs2z9lpd
+[THIS LINK](https://paypal.me/sebaxakerhtc)
