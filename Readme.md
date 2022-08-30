@@ -16,6 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>30.08.2022: added support for <b>19041.1949_x86</b>
 <p>27.08.2022: added support for <b>19041.1949_x64</b>
 <p>25.08.2022: added support for <b>25188.1000</b>
 <p>18.08.2022: added support for <b>25182.1000</b> and <b>20348.946 (Server 2022)</b>
