@@ -16,6 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>07.10.2022: added support for <b>25217.1000</b> and <b>1000 stars!</b>
 <p>02.10.2022: added support for <b>22621.608</b>
 <p>30.09.2022: added support for <b>25211.1001</b>
 <p>29.09.2022: added support for <b>19101.1112_x64</b>
