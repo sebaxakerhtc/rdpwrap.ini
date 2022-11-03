@@ -189,3 +189,4 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 ## Donate?
 ### Yes, you can buy me a beer or a coffe at 
 [THIS LINK](https://paypal.me/sebaxakerhtc)
+[Для Россииж(https://donate.stream/sebaxakerhtc)
