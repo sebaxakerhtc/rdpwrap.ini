@@ -190,4 +190,4 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 </details>
 
 # Donate?
-[![For EU and Other](https://github.com/sebaxakerhtc/sebaxakerhtc.github.io/raw/master/images/paypal.png)](https://paypal.me/sebaxakerhtc) &nbsp; &nbsp; &nbsp; [![Для дарений из России](https://github.com/sebaxakerhtc/sebaxakerhtc.github.io/raw/master/images/yoomoney.png)](https://donate.stream/sebaxakerhtc)
+[![For EU and Other](https://github.com/sebaxakerhtc/sebaxakerhtc.github.io/raw/master/images/paypal.png)](https://paypal.me/sebaxakerhtc) &nbsp; [![Для дарений из России](https://github.com/sebaxakerhtc/sebaxakerhtc.github.io/raw/master/images/yoomoney.png)](https://donate.stream/sebaxakerhtc)
