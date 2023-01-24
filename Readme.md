@@ -17,6 +17,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 <details>
 <summary><b>History:</b></summary>
 <p>24.02.2023: added support for <b>25281.1000</b>
+<p>19.01.2023: added support for <b>10.0.19041.1947</b>
 <p>16.01.2023: added support for <b>25276.1000</b> and <b>6.1.7601.25757_x86</b>
 <p>11.01.2023: added support for <b>14393.5582_x86</b>
 <p>06.01.2023: added support for <b>17763.3650_x86</b> and <b>25272.1000</b>
