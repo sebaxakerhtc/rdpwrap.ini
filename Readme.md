@@ -16,13 +16,13 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
-<p>19.02.2023: added support for <b>19041.2670</b>
-<p>16.02.2023: added support for <b>20348.1547</b> and <b>25300.1000</b>
+<p>19.02.2023: added support for <b>19041.2670_x64</b>
+<p>16.02.2023: added support for <b>20348.1547_x64</b> and <b>25300.1000</b>
 <p>10.02.2023: added support for <b>25295.1000</b>
 <p>06.02.2023: added support for <b>25290.1000</b>
 <p>27.01.2023: added support for <b>25284.1000</b> and <b>20348.1</b>
 <p>24.01.2023: added support for <b>25281.1000</b>
-<p>19.01.2023: added support for <b>10.0.19041.1947</b>
+<p>19.01.2023: added support for <b>19041.1947_x64</b>
 <p>16.01.2023: added support for <b>25276.1000</b> and <b>6.1.7601.25757_x86</b>
 <p>11.01.2023: added support for <b>14393.5582_x86</b>
 <p>06.01.2023: added support for <b>17763.3650_x86</b> and <b>25272.1000</b>
