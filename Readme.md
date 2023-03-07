@@ -16,6 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>04.03.2023: added support for <b>18252.1000_x86</b>
 <p>03.03.2023: added support for <b>19041.2673_x86</b> and <b>25309.1000</b>
 <p>28.02.2023: added support for <b>19041.1_x86</b>
 <p>23.02.2023: added support for <b>22000.1641</b>. С днём защитников отечества!
