@@ -16,6 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>29.05.2023: added support for <b>22621.1825</b>
 <p>26.05.2023: added support for <b>25375.1</b>
 <p>25.05.2023: added support for <b>22621.1778</b>
 <p>23.05.2023: added support for <b>25370.1</b>
