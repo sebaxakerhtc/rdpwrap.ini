@@ -16,7 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
-<p>15.01.2024: added support for <b>23615.1000</b>
+<p>15.01.2024: added support for <b>23612.1000</b> and <b>23615.1000</b>
 <p>13.01.2024: added support for <b>26010.1000</b>
 <p>10.01.2024: added support for <b>17763.5328_x64</b>
 <p>30.12.2023: added support for <b>26016.1000</b> HAPPY NEW YEAR ! ! !
