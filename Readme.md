@@ -16,7 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
-<p>14.02.2024: added support for <b>22000.2777</b>
+<p>14.02.2024: added support for <b>22000.2777</b> and <b>20348.2322_x64</b>
 <p>12.02.2024: added support for <b>26052.1000</b>
 <p>05.02.2024: added support for <b>22621.3139</b>
 <p>28.01.2024: added support for <b>22621.3130</b>
