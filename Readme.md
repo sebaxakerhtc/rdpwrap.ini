@@ -1,7 +1,5 @@
 # RDPWrap.ini for RDP Wrapper Library by Stas'M
 
-$${\color{red}Do \space not \space install \space on \space 24H2 \space as \space it \space not \space work \space for \space now!}$$
-
 ## [Discord discussion](https://discord.gg/N27yFftWP3)
   
 <b>IMPORTANT!</b>
