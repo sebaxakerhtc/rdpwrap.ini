@@ -16,6 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>23.02.2024: EDITED wrong offsets for <b>19041.3636_x86</b> #Thhanks to @loyejaotdiqr47123 for this!
 <p>21.02.2024: added support for <b>17763.10021_x64</b>
 <p>19.02.2024: added support for <b>22621.3227</b> and <b>.23620.1000</b>
 <p>16.02.2024: added support for <b>26058.1000</b> thanks to @udygct
