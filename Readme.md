@@ -16,7 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
-<p>01.05.2024: added support for <b>10.0.26100.1</b>
+<p>01.05.2024: added support for <b>10.0.26100.1 and 10.0.20348.2400</b>
 <p>26.04.2024: added support for <b>26200.5001</b>
 <p>25.04.2024: added support for <b>22621.3527 , 10.0.19041.4355 x86 & x64 </b>
 <p>23.04.2024: added support for <b>19041.4233 ,19041.4239 , 22000.2899 , 22621.3358 , 22621.3371 , 26002.1000 , 26020.1000, 22621.3430 , 22621.4235 </b>
