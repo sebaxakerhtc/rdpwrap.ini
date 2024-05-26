@@ -16,7 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
-<p>26.05.2024: added support for <b>10.0.22621.3646</b>
+<p>26.05.2024: added support for <b>10.0.22621.3646 and 10.0.17763.5830 x86</b>
 <p>24.05.2024: added support for <b>10.0.19041.4472 x86 & x64 and 10.0.17763.5830</b>
 <p>23.05.2024: added support for <b>10.0.22621.3640</b>
 <p>18.05.2024: added support for <b>10.0.26217.5000</b>
