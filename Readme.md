@@ -16,6 +16,15 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>17.07.2024: added support for <b>26100.973</b>
+<p>13.07.2024: added support for <b>26252.5000 , 22621.3951 and 10240.20708</b>
+<p>01.07.2024: added support for <b>26244.5000</b>
+<p>27.06.2024: added support for <b>10.0.25982.1000</b>
+<p>21.06.2024: added support for <b>10.0.26241.5000</b>
+<p>20.06.2024: added support for <b>10.0.22000.3019</b>
+<p>14.06.2024: added support for <b>10.0.26236.5000</b>
+<p>13.06.2024: added support for <b>25398.950 and 20348.2400</b>
+<p>08.06.2024: added support for <b>10.0.22621.3760</b>
 <p>07.06.2024: added support for <b>10.0.26227.5000 and 10.0.26231.5000</b>
 <p>30.05.2024: added support for <b>10.0.19041.4474 x86 & x64</b>
 <p>26.05.2024: added support for <b>10.0.22621.3646 and 10.0.17763.5830 x86</b>
