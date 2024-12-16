@@ -16,7 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 Q: How to update rdpwrap.ini quickly ?
 
-A: Download the bat script [update_rdpwrap_ini.bat](scripts%2Fupdate_rdpwrap_ini.bat) [update_rdpwrap_ini.bat](./scripts/update_rdpwrap_ini.bat) and run it with admin.
+A: Download the bat script [update_rdpwrap_ini.bat](./scripts/update_rdpwrap_ini.bat) and run it with admin.
 
 <details>
 <summary><b>History:</b></summary>
