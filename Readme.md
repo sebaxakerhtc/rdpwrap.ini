@@ -16,6 +16,7 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>30.01.2025: added support for <b>10.0.26100.3000</b>
 <p>29.01.2025: added support for <b>10.0.22621.4805 and 10.0.26100.3037</b>
 <p>25.01.2025: added support for <b>10.0.27774.1000</b>
 <p>17.01.2025: added support for <b>10.0.20348.3089</b>
