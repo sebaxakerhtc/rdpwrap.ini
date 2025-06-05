@@ -16,6 +16,12 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>05.06.2025: added support for <b>10.0.26100.5600</b>
+<p>02.06.2025: added support for <b>10.0.27868.1000</b>
+<p>30.05.2025: added support for <b>10.0.22621.5413</b></p>
+<p>08.05.2025: added support for <b>10.0.26100.5581</b>
+<p>04.05.2025: added support for <b>10.0.26100.5551</b>
+<p>01.05.2025: added support for <b>10.0.19041.5678 x86 and 10.0.20348.3451</b>
 <p>30.04.2025: added support for <b>10.0.22621.5262 , 10.0.22621.5260 and 10.0.26100.3909</b>
 <p>28.04.2025: added support for <b>10.0.26100.3902 and 10.0.26100.3912</b>
 <p>27.04.2025: added support for <b>10.0.26100.3863</b>
