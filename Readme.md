@@ -16,6 +16,14 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
+<p>16.07.2025: added support for <b>10.0.26100.4484</b>
+<p>16.07.2025: added support for <b>10.0.26100.4484</b>
+<p>09.07.2025: added support for <b>10.0.22621.5235</b>
+<p>07.07.2025: added support for <b>10.0.22621.5547</b>
+<p>21.06.2025: added support for <b>10.0.27881.1000</b>
+<p>19.06.2025: added support for <b>10.0.22621.5415</b>
+<p>08.06.2025: added support for <b>10.0.26100.4202</b>
+<p>07.06.2025: added support for <b>10.0.26100.5603</b>
 <p>05.06.2025: added support for <b>10.0.26100.5600</b>
 <p>02.06.2025: added support for <b>10.0.27868.1000</b>
 <p>30.05.2025: added support for <b>10.0.22621.5413</b></p>
