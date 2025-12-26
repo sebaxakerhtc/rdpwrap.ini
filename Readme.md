@@ -16,7 +16,33 @@ A: [This video](https://youtu.be/7ZjgehDztBQ) and [this new video](https://youtu
 
 <details>
 <summary><b>History:</b></summary>
-<p>16.07.2025: added support for <b>10.0.27891.1000/b>
+<p>23.12.2025: added support for <b>10.0.26100.7523</b></p>
+<p>15.12.2025: added support for <b>10.0.26100.7344</b></p>
+<p>03.12.2025: added support for <b>10.0.26100.7309</b></p>
+<p>17.11.2025: added support for <b>10.0.26100.3613</b></p>
+<p>08.11.2025: added support for <b>10.0.26100.6982, 10.0.26100.7070 and 10.0.28000.1</b></p>
+<p>07.11.2025: added support for <b>10.0.27982.1 and 10.0.26100.7051</b></p>
+<p>01.11.2025: added support for <b>10.0.14393.8519 x64</b></p>
+<p>29.10.2025: added support for <b>10.0.14393.8519 x86 and 10.0.26100.7019</b></p>
+<p>22.10.2025: added support for <b>10.0.22621.6060 and 10.0.26100.6972</b></p>
+<p>20.10.2025: added support for <b>10.0.20348.4294</b></p>
+<p>17.10.2025: added support for <b>10.0.22621.6054, 10.0.19041.6456 x86, 10.0.17763.7919, 10.0.27971.1 and 10.0.19041.6456 x64</b></p>
+<p>16.10.2025: added support for <b>10.0.26100.6899</b></p>
+<p>07.10.2025: added support for <b>10.0.27959.1</b></p>
+<p>30.09.2025: added support for <b>10.0.26100.6725</b></p>
+<p>27.09.2025: added support for <b>10.0.27954.1</b></p>
+<p>26.09.2025: added support for <b>10.0.26100.5751</b></p>
+<p>24.09.2025: added support for <b>10.0.26100.5733, 10.0.26100.5067 and 10.0.26100.5790</b></p>
+<p>21.09.2025: added support for <b>10.0.27943.1 and 10.0.27950.1</b></p>
+<p>11.09.2025: added support for <b>10.0.27938.1</b></p>
+<p>09.09.2025: added support for <b>10.0.27902.1000, 10.0.27909.1000, 10.0.27913.1000, 10.0.27919.1000, 10.0.27928.1 and 10.0.27934.1</b></p>
+<p>04.09.2025: added support for <b>10.0.22621.5840</b></p>
+<p>01.09.2025: added support for <b>10.0.26100.5770</b></p>
+<p>31.08.2025: added support for <b>10.0.26100.5074</b></p>
+<p>14.08.2025: added support for <b>10.0.22621.5697</b></p>
+<p>02.08.2025: added support for <b>10.0.26100.4768</b></p>
+<p>18.07.2025: added support for <b>10.0.27898.1000</b></p>
+<p>16.07.2025: added support for <b>10.0.27891.1000</b></p>
 <p>09.07.2025: added support for <b>10.0.26100.4484</b>
 <p>08.07.2025: added support for <b>10.0.22621.5235</b>
 <p>07.07.2025: added support for <b>10.0.22621.5547</b>
