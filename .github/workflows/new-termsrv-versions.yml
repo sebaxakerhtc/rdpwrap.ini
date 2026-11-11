@@ -1,0 +1,84 @@
+name: New termsrv.dll versions
+
+# Daily: find x64 termsrv.dll builds listed on Winbindex but missing from
+# rdpwrap.ini, generate offsets with RDPWrapOffsetFinder (run under Wine on
+# Linux) and open one PR each. Wine is only installed when there is a build.
+on:
+  schedule:
+    # Once a day, after Winbindex's own update. Its runs (cron 07:00 UTC daily and
+    # 18:15 UTC on Patch Tuesday) start hours late and finish between ~15:00 and
+    # ~01:30 UTC, so at 05:17 the previous day's builds are listed. Minute 17, not
+    # :00, because GitHub delays or drops scheduled runs at the top of the hour.
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+    inputs:
+      max_prs:
+        description: Max PRs to open in this run
+        default: "5"
+      dry_run:
+        description: Only print what would be opened
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: auto-termsrv-prs
+
+env:
+  # Bumping FINDER_VERSION retries builds whose auto PR was closed, if the offsets change.
+  FINDER_VERSION: v1.0
+  FINDER_URL: https://github.com/llccd/RDPWrapOffsetFinder/releases/download/v1.0/RDPWrapOffsetFinder-1.0.zip
+  FINDER_SHA256: 1a69fdc7182d3ec1110fd09d8ad4e9c9d0211fcc75ece30b5920218d6887441e
+
+jobs:
+  offsets:
+    # Forks only run it by hand, so the 800+ forks do not open PRs on their own.
+    if: github.repository == 'sebaxakerhtc/rdpwrap.ini' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    env:
+      WINEDEBUG: -all
+      # Wine's own dbghelp cannot load the symbols; use the Microsoft DLLs shipped with the finder.
+      WINEDLLOVERRIDES: dbghelp,symsrv=n
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+
+      - name: Self-test
+        run: python3 .github/scripts/new_termsrv_prs.py --test
+
+      - name: Find builds that need a PR
+        id: plan
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MAX_PRS: ${{ inputs.max_prs || '5' }}
+        run: python3 .github/scripts/new_termsrv_prs.py --plan
+
+      - name: Install Wine and RDPWrapOffsetFinder ${{ env.FINDER_VERSION }}
+        if: steps.plan.outputs.builds != '[]'
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq --no-install-recommends wine wine64 >/dev/null
+          wine --version
+          wineboot -u >/dev/null 2>&1 || true
+          curl -sfL -o finder.zip "$FINDER_URL"
+          echo "$FINDER_SHA256  finder.zip" | sha256sum -c
+          unzip -q finder.zip -d "$RUNNER_TEMP/finder"
+          rm finder.zip
+
+      - name: Run RDPWrapOffsetFinder and open PRs
+        if: steps.plan.outputs.builds != '[]'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BUILDS: ${{ steps.plan.outputs.builds }}
+          WINE: wine
+          FINDER: ${{ runner.temp }}/finder/64bit/RDPWrapOffsetFinder.exe
+          BASE: ${{ github.event.repository.default_branch }}
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python3 .github/scripts/new_termsrv_prs.py --offsets
