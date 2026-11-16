@@ -1,0 +1,39 @@
+name: Rebase auto termsrv PRs
+
+# After a merge to master, re-create open auto/termsrv-* PRs that now conflict
+# (two builds next to each other insert at the same spot in rdpwrap.ini).
+on:
+  push:
+    branches: [master]
+    paths: [rdpwrap.ini]
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Only print which PRs would be rebased
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: auto-termsrv-prs
+
+jobs:
+  rebase:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          fetch-depth: 0
+
+      - name: Rebase conflicting auto PRs
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BASE: ${{ github.event.repository.default_branch }}
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python3 .github/scripts/new_termsrv_prs.py --rebase
